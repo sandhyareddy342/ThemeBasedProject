@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "482927702093",
+    "firebase_url": "https://quickbillingfirebase.firebaseio.com",
+    "project_id": "quickbillingfirebase",
+    "storage_bucket": "quickbillingfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482927702093:android:da137c440dbab542",
+        "android_client_info": {
+          "package_name": "com.example.sandhyareddy.quickbilling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482927702093-q2e6g79u4h7n0sti1ukhqvd9emio8ots.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sandhyareddy.quickbilling",
+            "certificate_hash": "5c09975add43acfffc4937429d5b1945b70ee017"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcsFsSWky6lx0zBWOGDtVlYoOUIVJo40c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482927702093-8d3k1hv7e74vamop215mqpj36oujt2ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
